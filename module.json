@@ -1,0 +1,20 @@
+{
+  "sourceName": "AnimePahe",
+  "iconUrl": "https://animepahe.si/favicon.ico",
+  "author": {
+    "name": "4v32",
+    "icon": "https://cdn.pfps.gg/pfps/1869-cute-sailor-moon-profile-icon.png"
+  },
+  "version": "1.0.0",
+  "language": "English (DUB)",
+  "streamType": "HLS",
+  "quality": "720p",
+  "baseUrl": "https://animepahe.si/",
+  "searchBaseUrl": "https://animepahe.si/api?m=search&q=%s&l=8",
+  "scriptUrl": "https://raw.githubusercontent.com/Techqq/sora-animekai/main/script.AnimePahe.js",
+  "type": "anime",
+  "downloadSupport": false,
+  "asyncJS": true,
+  "streamAsyncJS": false,
+  "softsub": true
+}
